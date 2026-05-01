@@ -1,8 +1,8 @@
-# Projeto Acadêmico - Herança em Java
+# Academic Project - Inheritance in Java
 
-Este repositório contém um projeto acadêmico desenvolvido em Java, utilizando o Eclipse IDE, com o objetivo de demonstrar os conceitos de **Herança** e **Polimorfismo**.
+This repository contains an academic project developed in Java using the Eclipse IDE, with the purpose of demonstrating the concepts of **Inheritance** and **Polymorphism**.
 
-## Estrutura do Projeto
+## Project Structure
 - **model**
   - `Conta.java`
   - `ContaCorrente.java`
@@ -10,18 +10,17 @@ Este repositório contém um projeto acadêmico desenvolvido em Java, utilizando
 - **view**
   - `Principal.java`
 
-## Objetivos
-- Aplicar os princípios de herança entre classes.
-- Implementar operações básicas de contas bancárias (depósito e saque).
-- Demonstrar polimorfismo em cenários práticos.
+## Objectives
+- Apply the principles of inheritance between classes.
+- Implement basic banking account operations (deposit and withdrawal).
+- Demonstrate polymorphism in practical scenarios.
 
-## Demonstração
-![Demonstração do Projeto](heranca.gif)
+## Demonstration
+![Project Demonstration](heranca.gif)
 
-## Tecnologias Utilizadas
+## Technologies Used
 - Java 21
 - Eclipse IDE
-- GitHub para versionamento
-
+- GitHub for version control
 
 ---
